@@ -1,0 +1,166 @@
+/* navbar */
+.navbar-default {
+  background-color: #f4e7e0;
+  border-color: #f4e7e0;
+}
+
+/* title */
+.navbar-default .navbar-brand {
+  color: #d15425;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #d15425;
+}
+
+/* link */
+.navbar-default .navbar-nav > li > a {
+  color: #d15425;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #d15425;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #d15425;
+  background-color: #f4e7e0;
+}
+
+nav {
+  background-color: #f4e7e0;
+  font-family: Arial Black;
+  font-size: 18px;
+  text-transform: uppercase;
+  height: 50px;
+}
+
+.bodydiv {
+  background: url("http://i.imgur.com/giFnui8.jpg");
+  padding-right: 60%;
+}
+
+body {
+  background-color: #f4e7e0;
+}
+
+p {
+  font-family: Arial Black;
+  font-size: 16px;
+  color: #f4e7e0;
+}
+
+h3 {
+  font-family: Arial Black;
+  font-size: 26px;
+  color: #f4e7e0;
+}
+
+.about {
+  padding-bottom: 60px;
+  padding-top: 40px;
+  text-align: justify;
+  border-bottom-style: dotted;
+  border-color: #f4e7e0;
+  border-width: 10px;
+}
+
+.portfolio {
+  padding-bottom: 60px;
+  padding-top: 40px;
+  text-align: justify;
+  border-bottom-style: dotted;
+  border-color: #f4e7e0;
+  border-width: 10px;
+}
+
+.contact {
+  padding-bottom: 60px;
+  padding-top: 40px;
+  text-align: justify;
+}
+
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  padding: 10px 16px;
+}
+
+.btn-lg {
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 6px;
+}
+
+.btn-primary {
+  color: #f4e7e0;
+  background-color: #428bca;
+  border-color: #f4e7e0;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+  color: #f4e7e0;
+  background-color: #3276b1;
+  border-color: #f4e7e0;
+}
+
+/***********************
+  OUTLINE BUTTONS
+************************/
+.btn.outline {
+  background: none;
+  padding: 12px 22px;
+}
+
+.btn-primary.outline {
+  border: 2px solid #f4e7e0;
+  color: #f4e7e0;
+}
+
+.btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
+  color: #f4e7e0;
+  border-color: #f4e7e0;
+}
+
+.btn-primary.outline:active, .btn-primary.outline.active {
+  border-color: #f4e7e0;
+  color: #f4e7e0;
+  box-shadow: none;
+}
+
+footer {
+  background-color: #f4e7e0;
+  color: #d15425;
+  height: 40px;
+  font-family: Arial Black;
+  font-size: 14px;
+  padding-top: 20px;
+}
+
+.contactdiv {
+  background-color: #d15425;
+  padding-left: 20%;
+}
